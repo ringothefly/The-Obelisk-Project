@@ -4,6 +4,6 @@ Any forks better optimising code are much appreciated.
 
 # Development Checklist
 
-Get running - Complete
+Get running - Complete \n
 Interchangeable, Server Specific Prefixes - Complete
 Cycling Rich Presence Statuses - 
