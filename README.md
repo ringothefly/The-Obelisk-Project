@@ -4,6 +4,12 @@ Any forks better optimising code are much appreciated.
 
 # Development Checklist
 
-Get running - Complete \n
+Get running - Complete 
+
 Interchangeable, Server Specific Prefixes - Complete
+
 Cycling Rich Presence Statuses - 
+
+Anti-Spam -
+
+Moderation Commands (purge, ban, etc.)- 
